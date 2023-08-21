@@ -1,0 +1,315 @@
+.img2{
+    width: 180px;
+    height: 40px;
+    margin-top: 0px;
+    position: absolute;
+    top: 20px; 
+    left: 30px; 
+    z-index: 1;
+    filter: brightness(100%);
+    /* filter: blur(0.5px); */
+}
+.img1{
+    width: 100%;
+    height: 800px;
+    filter: brightness(30%);
+}
+.header1{
+
+    margin-top: 0px;
+    position: relative;
+}
+
+.div1 input{
+    position:absolute;
+    top: 420px;
+    z-index: 1;
+    left: 23.5%;
+    color:white;
+    font-size: 20px;
+    font-weight:400;
+    height: 50px;
+    width: 350px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+.div1 .getStarted{
+    position:absolute;
+    top: 420px;
+    z-index: 1;
+    left: 52.5%;
+    color:white;
+    font-size: 25px;
+    font-weight:400;
+    height: 50px;
+    width: 180px;
+    background-color: red;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    text-decoration: none;
+    /* padding: 5px 0px 0px 2px; */
+    text-align: center;
+    padding-top: 5px;
+}
+.div1 .getStarted:hover{
+    background-color: rgb(188, 20, 20);
+}
+.div1{
+    margin-top: 0px;
+}
+.div1 h1{
+    position:absolute;
+    top: 200px;
+    z-index: 1;
+    left: 10%;
+    color: white;
+    font-size: 50px;
+}
+.div1 h4{
+    position:absolute;
+    top: 280px;
+    z-index: 1;
+    left: 30%;
+    color: white;
+    font-size: 25px;
+    font-weight:400;
+}
+.div1 h3{
+    position:absolute;
+    top: 340px;
+    z-index: 1;
+    left: 20%;
+    color: white;
+    font-size: 20px;
+    font-weight:400;
+}
+.signinbtn{
+    position: absolute;
+    top: 10px; 
+    right: 30px; 
+    z-index: 1;
+    height: 30px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 05px;
+    width: 65px;
+    top: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 5px 0px 0px 12px;
+}
+.signinbtn:hover{
+    background-color: rgb(210, 13, 13);
+}
+.custom-carousel {
+    width: 40%;
+    margin-left: 700px;
+    margin-top: -220px;
+   
+  }
+  
+  .custom-image {
+    width: 500px;
+    height: 500px;
+    margin-left: 30px;
+    margin-top: -200px;
+    padding-top: 200px;
+    border-bottom: 1px solid white;
+    
+  }
+  
+.section2{
+    margin-top: -50px;
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    color: white;
+}
+.section2 h1{
+    padding-top: 160px;
+   margin-left: 40px;
+   font-size: 60px;
+}
+.section2 h3{
+
+    padding-left: 40px;
+   font-size: 28px;
+   margin-top: -20px;
+   font-weight: lighter
+}
+body{
+    background-color: rgb(63, 59, 59);
+}
+.div2{
+    width: 450px;
+    height: 700px;
+    background-color: black;
+    position: absolute;
+    top: 80px;
+    left: 30%;
+    z-index: 1;
+    border: 2px solid black;
+    border-radius: 5px;
+    opacity: 0.7;
+
+}
+.div2 h2{
+    padding-left: 75px;
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight:800;
+    letter-spacing: 1px;
+    color: white;
+    opacity:inherits;
+}
+.div2 .input1{
+    font-size: 15px;
+    margin-top: -310px;
+    width: 290px;
+    left: 18%;
+    background-color: rgba(72, 65, 65, 0.87);
+    border: none;
+    color: white;
+    height: 45px;
+}
+.div2 .input2{
+    font-size: 15px;
+    margin-top: -250px;
+    width: 290px;
+    left: 18%;
+    background-color: rgba(72, 65, 65, 0.87);
+    border: none;
+    color: white;
+    height: 45px;
+}
+
+.div2 .Tick{
+    margin-top: -112px;
+    margin-left: -23px;
+    width: 15px;
+    
+}
+.div2 .label1{
+    color: white;
+    position: absolute;
+    top: 322px;
+    left: 23%;
+}
+.div2 .label2{
+    color: rgb(90, 82, 82);
+    position: absolute;
+    top: 410px;
+    left: 19%;
+}
+.div2 .sign{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 410px;
+    left: 44%;
+}
+.div2 .help{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 322px;
+    left: 66%;
+}
+.div2 .para{
+    color: rgb(90, 82, 82);
+    position: absolute;
+    top: 428px;
+    left: 19%;
+    font-size: 13px;
+}
+.div2 .learn{
+    text-decoration: none;
+    position: absolute;
+    top: 458px;
+    left: 50%;
+    font-size: 13px;
+}
+.div2 .learn:hover{
+    text-decoration: underline;
+}
+.div2 .sign:hover{
+    text-decoration: underline;
+}
+.div2 .help:hover{
+    text-decoration:underline;
+}
+.div2 .signin{
+    position:absolute;
+    top: 270px;
+    left: 18%;
+    color:white;
+    font-size: 18px;
+    font-weight:400;
+    width: 295px;
+    background-color: red;
+    border: none;
+    border-radius: 3px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.div2 .signin:hover{
+    background-color: rgb(164, 10, 10);
+}
+
+ @media  (max-width: 730px) {
+    .img1{
+        width: 100%;
+        height: 600px;
+        filter: brightness(30%);
+    }
+    .div1 .getStarted{
+        position:absolute;
+        top: 370px;
+        z-index: 1;
+        left: 55%;
+        color:white;
+        font-size: 25px;
+        font-weight:400;
+        height: 50px;
+        width: 140px;
+        /* padding: 5px 0px 0px 2px; */
+        text-align: center;
+        padding-top: 5px;
+        margin-left: 35px;
+    }
+    .div1 input{
+        z-index: 1;
+        left: 23.5%;
+        height: 50px;
+        width: 200px;
+        padding-left: 5px;
+        top: 370px;
+    }
+    .div1 h1{
+        position:absolute;
+        top: 200px;
+        z-index: 1;
+        left: 10%;
+        color: white;
+        font-size: 27px;
+    }
+    .div1 h4{
+        top: 230px;
+        z-index: 1;
+        left: 30%;
+        font-size: 20px;
+    }
+    .div1 h3{
+        position:absolute;
+        top: 275px;
+        left: 20%;
+        font-size: 18px;
+    }
+    
+  }
